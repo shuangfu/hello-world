@@ -1,2 +1,2 @@
 # hello-world
-a try of github
+i know nothing about myself
